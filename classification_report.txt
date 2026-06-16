@@ -1,0 +1,16 @@
+Accuracy: 95.43%
+
+Detailed Report:
+                        precision    recall  f1-score   support
+
+      bacterial_blight       0.93      0.95      0.94       150
+            curl_virus       0.98      0.95      0.96       150
+          healthy_leaf       0.89      0.99      0.94       150
+herbicidegrowth_damage       1.00      0.97      0.99       150
+   leaf_hopper_jassids       0.93      0.93      0.93       150
+         leaf_reddning       0.97      0.90      0.93       150
+      leaf_variegation       0.99      0.99      0.99       150
+
+              accuracy                           0.95      1050
+             macro avg       0.96      0.95      0.95      1050
+          weighted avg       0.96      0.95      0.95      1050
