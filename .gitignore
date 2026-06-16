@@ -216,3 +216,14 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+# Project-specific files
+
+dataset/
+Augmented Dataset/
+final_dataset/
+
+static/uploads/
+static/voice/
+static/voice_replies/
+static/gradcam_outputs/
+
